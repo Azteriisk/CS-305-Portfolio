@@ -1,3 +1,9 @@
+> **Course**: CS 305: Software Security  
+> **Description**: Software Security & Vulnerability Assessment Portfolio  
+> **Part of**: [CS SWE Degree Path](https://github.com/Azteriisk/CS-SWE-Degree-Path)
+
+---
+
 # Artemis Financial Security Enhancements
 
 ## Client Summary
